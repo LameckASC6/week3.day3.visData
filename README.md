@@ -15,7 +15,6 @@
 6. Using everything you know about creating and designing websites, the DOM, event handlers, and objects, you will create a single web page that displays the JSON data in any way you see fit
 7. Before you begin…
    - Wireframe your concept
-     - Consider the following:
        - What information do you want to display? Some of it? All of it?
        - You can go to https://randomuser.me/ and see an example of visualizing one user
        - How would you visualize 10+ users?

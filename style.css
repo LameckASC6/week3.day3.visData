@@ -1,0 +1,207 @@
+h1{
+    margin-top: 2.5vw;
+    text-align: center;
+    color: whitesmoke;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+#userName{
+    text-transform: capitalize;
+    color: #0892d0;
+    margin-left:auto;
+    font-size: 40px;
+    /* text-align: center; */
+}
+
+#userName{
+    text-transform: capitalize;
+    color: lightblue;
+    margin-left:auto;
+    font-size: 40px;
+    /* text-align: center; */
+}
+
+#mailName{
+    color: lightblue;
+    margin-left:auto;
+    font-size: 40px;
+    /* text-align: center; */
+}
+
+#birthdayName{
+    text-transform: capitalize;
+    color: lightblue;
+    margin-left:auto;
+    font-size: 40px;
+    /* text-align: center; */
+}
+#addressName{
+    text-transform: capitalize;
+    color: lightblue;
+    margin-left:auto;
+    font-size: 40px;
+    /* text-align: center; */
+}
+#phoneName{
+    text-transform: capitalize;
+    color: lightblue;
+    margin-left:auto;
+    font-size: 40px;
+    /* text-align: center; */
+}
+#passwordName{
+    color: lightblue;
+    margin-left:auto;
+    font-size: 40px;
+    /* text-align: center; */
+}
+.content{
+    display: flex;
+    width: 100%;
+    flex-direction: row;
+}
+
+#userText{
+    display: block;
+    width: inherit;
+    margin-left: 25%;
+    font-size: 3vw;
+    color: whitesmoke;
+    /* text-align: center; */
+    font-family: 'Crimson Pro', serif;
+    font-size: 16px;
+    /* margin-left:  200px; */
+}
+#mailText{
+    display: none;
+    width: inherit;
+    margin-left: 25%;
+    font-size: 3vw;
+    color: whitesmoke;
+    /* text-align: center; */
+    font-family: 'Crimson Pro', serif;
+    font-size: 16px;
+    /* margin-left:  200px; */
+}
+#birthdayText{
+    display: none;
+    width: inherit;
+    margin-left: 25%;
+    font-size: 3vw;
+    color: whitesmoke;
+    /* text-align: center; */
+    font-family: 'Crimson Pro', serif;
+    font-size: 16px;
+    /* margin-left:  200px; */
+}
+#addressText{
+    display: none;
+    width: inherit;
+    margin-left: 25%;
+    font-size: 3vw;
+    color: whitesmoke;
+    /* text-align: center; */
+    font-family: 'Crimson Pro', serif;
+    font-size: 16px;
+    /* margin-left:  200px; */
+}
+#phoneText{
+    display: none;
+    width: inherit;
+    margin-left: 25%;
+    font-size: 3vw;
+    color: whitesmoke;
+    /* text-align: center; */
+    font-family: 'Crimson Pro', serif;
+    font-size: 16px;
+    /* margin-left:  200px; */
+}
+#passwordText{
+    display: none;
+    width: inherit;
+    margin-left: 25%;
+    font-size: 3vw;
+    color: whitesmoke;
+    /* text-align: center; */
+    font-family: 'Crimson Pro', serif;
+    font-size: 16px;
+    /* margin-left:  200px; */
+}
+
+.info{
+    background-color: rgb(42,42,42);
+    border: 2px solid #0892d0;
+    border-radius: 5px;
+    margin-top: 50px;
+    margin-bottom: 200px;
+    height: 100%;
+    
+}
+
+.images{
+    display : flex;
+    flex-direction: row;
+    justify-content: space-around;
+    color: whitesmoke;
+    margin-bottom: 3vw;
+    font-size: 3vw;
+   
+}
+
+.images :hover{
+    color: #0892d0;
+}
+
+#userImage {
+    width: inherit;
+    margin-top: -3vw;
+    margin-left: 5vw;
+    margin-bottom: 3vw;
+    width: 20vw;
+    border: 5px dashed;
+    border-color:#0892d0;
+}
+
+#userIntro {
+    font-size: 32px;
+    padding-left: -20px;
+    
+}
+#mailIntro {
+    font-size: 32px;
+    padding-left: -20px;
+}
+#birthdayIntro {
+    font-size: 32px;
+    padding-left: -20px;
+}
+#addressIntro {
+    font-size: 32px;
+    padding-left: -20px;
+}
+#phoneIntro {
+    font-size: 32px;
+    padding-left: -20px;
+}
+#passwordIntro {
+    font-size: 32px;
+    padding-left: -20px;
+}
+
+body {
+    background-color: black;
+   
+}
+
+.generator {
+text-align: center;
+color: whitesmoke;
+}
+
+.content{
+   margin-left: 80px;
+}
+
+#user{
+    color: #0892d0;
+}
